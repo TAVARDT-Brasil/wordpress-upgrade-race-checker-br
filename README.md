@@ -77,4 +77,18 @@ Acesse o Guia Interativo em produção:
 
 ***
 
+## Governança e Soberania
+
+* **Unidade Soberana**: [TAVARDT Brasil](https://ag.tavardt.com/br/) (`TAVARDT-Brasil`)
+* **Normas Centrais**: [00-core Governança](https://github.com/TAVARDT-Brasil/00-core)
+* **Central de Diagnósticos**: [Central de Ferramentas TAVARDT](https://tools.tavardt.com/br/)
+* **Segurança Corporativa**: [TAVARDT Cibersegurança](https://ag.tavardt.com/br/ciberseguranca/)
+
+***
+
+### Licença
+Distribuído sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes completos.
+
+***
+
 © 2026 TAVARDT. Todos os direitos reservados.
